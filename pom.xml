@@ -74,14 +74,14 @@
                 A plugin which uses the JUnit framework in order to start
                 our junit suite "AllTests" after the sources are compiled.
                 -->
-                <artifactId>maven-surefire-plugin</artifactId>
+               <!-- <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.12.3</version>
                 <configuration>
                     <test>org/junit/tests/AllTests.java</test>
                     <useSystemClassLoader>true</useSystemClassLoader>
                     <enableAssertions>false</enableAssertions>
                 </configuration>
-            </plugin>
+            </plugin>-->
             <plugin>
                 <!--
                 This plugin can package the main artifact's sources (src/main/java)
