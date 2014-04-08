@@ -69,7 +69,7 @@
                 <xmlOutputDirectory>target/findbugs</xmlOutputDirectory>
               </configuration>
             </plugin>
-           <!-- <plugin>
+           <!-- <plugin> -->
                 <!--
                 A plugin which uses the JUnit framework in order to start
                 our junit suite "AllTests" after the sources are compiled.
