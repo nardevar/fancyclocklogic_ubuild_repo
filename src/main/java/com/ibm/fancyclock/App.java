@@ -4,6 +4,8 @@ public class App
 {
        /**This is used to get the current date
 	   */
+	   
+	   /*Added comment here */
 	   	   
 	   public static String now(){
            try{
